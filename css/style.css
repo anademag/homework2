@@ -1,0 +1,102 @@
+nav {
+  color: gray;
+  font-family: 'Helvetica';
+  font-size: 18px;
+  text-align: center;
+}
+nav a.active {
+  color: #ffffff;
+  text-decoration: none;
+}
+body {
+  background-color: #444444;
+  max-width: 620px;
+  margin: 30px auto;
+  border: 3px solid #BBBBBB;
+  padding: 40px;
+}
+h1 {
+  color: #ffffff;
+  font-style: italic;
+  text-align: center;
+}
+h2 {
+  color: #ffffff;
+  font-family: 'Helvetica';
+}
+h3 {
+  color: #BBBBBB;
+  font-family: 'Helvetica';
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  line-height: 44px;
+}
+p {
+  color: #ffffff;
+  font-family: 'Georgia';
+  font-size: 17px;
+  line-height: 24px;
+}
+.resumeabout {
+  color: #ffffff;
+  font-family: 'Georgia';
+  font-size: 17px;
+  line-height: 24px;
+}
+a {
+  color: #00DA99;
+  font-family: 'Helvetica';
+  font-weight: bold;
+  text-align: center;
+}
+li {
+  color: #ffffff;
+  font-family: 'Helvetica';
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 20px;
+}
+span {
+  color: #ffffff;
+}
+img {
+  float: right;
+  border: 1px solid;
+  border-color: #BBBBBB;
+  padding: 6px;
+  margin: 0px 0px 25px 25px;
+}
+footer {
+  text-align: center;
+}
+.resume {
+  color: #BBBBBB;
+  font-family: 'Georgia';
+  font-weight: normal;
+  line-height: 28px;
+}
+.edudeets {
+  color: #ffffff;
+  font-family: 'Helvetica';
+  font-size: 12px;
+  font-weight: lighter;
+}
+.description {
+  background-color: #444444;
+}
+.eduexp {
+  background-color: #444444;
+}
+.expdates {
+  color: #BBBBBB;
+  font-family: 'Helvetica';
+  font-size: 14px;
+  font-weight: lighter;
+}
+.workplace {
+  color: #ffffff;
+  font-family: 'Helvetica';
+  font-size: 16px;
+  font-weight: lighter;
+}
